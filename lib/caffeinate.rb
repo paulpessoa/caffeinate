@@ -1,8 +1,7 @@
 class Customer
-    def orders
+        def orders
     end
-
-    def pays_with_credit
+        def pays_with_credit
     end
 end
 
